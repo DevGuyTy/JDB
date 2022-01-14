@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.a33b8191.chunk.css",
+    "main.js": "/static/js/main.c1045cbe.chunk.js",
+    "main.js.map": "/static/js/main.c1045cbe.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.92ee656d.js",
+    "runtime-main.js.map": "/static/js/runtime-main.92ee656d.js.map",
+    "static/css/2.a7ba36b5.chunk.css": "/static/css/2.a7ba36b5.chunk.css",
+    "static/js/2.e3f93694.chunk.js": "/static/js/2.e3f93694.chunk.js",
+    "static/js/2.e3f93694.chunk.js.map": "/static/js/2.e3f93694.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.42c185c43d5f7715eda2d132a4d81a47.js": "/precache-manifest.42c185c43d5f7715eda2d132a4d81a47.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.a7ba36b5.chunk.css.map": "/static/css/2.a7ba36b5.chunk.css.map",
+    "static/css/main.a33b8191.chunk.css.map": "/static/css/main.a33b8191.chunk.css.map",
+    "static/js/2.e3f93694.chunk.js.LICENSE.txt": "/static/js/2.e3f93694.chunk.js.LICENSE.txt",
+    "static/media/Home.css": "/static/media/JDBHome.d26b1b10.webp",
+    "static/media/JDB_Transparency.png": "/static/media/JDB_Transparency.9deb8760.png",
+    "static/media/Padaloma.ttf": "/static/media/Padaloma.e446bf7c.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92ee656d.js",
+    "static/css/2.a7ba36b5.chunk.css",
+    "static/js/2.e3f93694.chunk.js",
+    "static/css/main.a33b8191.chunk.css",
+    "static/js/main.c1045cbe.chunk.js"
+  ]
+}
